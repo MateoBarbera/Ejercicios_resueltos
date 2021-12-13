@@ -1,0 +1,5 @@
+Nombre;Torneos;Perdidas;Ganadas;ID
+Ash;4;5;15;001
+doctor;5;3;12;002
+rocket;0;5;2;003
+pepe;1;5;9;004
